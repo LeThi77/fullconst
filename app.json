@@ -2,7 +2,10 @@
   "expo": {
     "name": "fullconst",
     "slug": "fullconst",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "android": {
+      "package": "com.anonymous.fullconst"
+    }
   },
   "name": "fullconst"
 }

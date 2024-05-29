@@ -1,4 +1,4 @@
-package com.fullconst
+package com.anonymous.fullconst
 
 import android.app.Application
 import android.content.res.Configuration
